@@ -7,8 +7,7 @@ body {
   background-color: #1B1C43; 
   color: white;
   font-family:'Courier New', monospace; 
-  margin-bottom: 0;
-  padding-bottom: 0;
+ 
 }
 
 section {
@@ -112,10 +111,6 @@ html {
 
 .overlay {
   position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
   height: 100%;
   width: 100%;
   opacity: 0;
