@@ -1,9 +1,6 @@
 
-/* -------------------- HTML TAGS --------------------*/
 
-html {
-  scroll-behavior: smooth;
-}
+
 
 body {
   text-align: center;
@@ -82,6 +79,10 @@ footer {
 }
 
 /* -------------------- BANNER -------------------- */
+
+html {
+  scroll-behavior: smooth;
+}
 
 .banner
 {
@@ -396,9 +397,6 @@ div.sticky {
   display: inline;
 }
 
-#bulb-image{
-  width:7%;
-}
 
 .right{
   text-align: right;
