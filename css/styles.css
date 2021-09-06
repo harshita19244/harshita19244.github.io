@@ -597,3 +597,8 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+a:hover {
+  color: #F5B041;
+  background-color: transparent;
+  text-decoration: none;
+}
