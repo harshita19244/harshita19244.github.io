@@ -279,7 +279,7 @@ div.sticky {
 
 /* -------------------- OTHER -------------------- */
 
-.headimg {
+.heading {
   border-radius: 100%;
   width: 300px;
   border: solid;
@@ -591,14 +591,4 @@ div.sticky {
   color: #f1f1f1;
 }
 
-/* --------------------LINKS -------------------- */
-a:link {
-  color: #F5B041;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: #F5B041;
-  background-color: transparent;
-  text-decoration: none;
-}
+
